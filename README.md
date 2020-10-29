@@ -1,2 +1,3 @@
 # ExpandRecyclerview-RecyclerView
-自己写的，简单易懂，用到了expandablerecyclerview
+具体可以看这个库'com.thoughtbot:expandablerecyclerview:1.4'借鉴很好用
+本项目简单易用
