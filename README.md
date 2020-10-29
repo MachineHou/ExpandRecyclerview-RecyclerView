@@ -1,0 +1,2 @@
+# ExpandRecyclerview-RecyclerView
+自己写的，简单易懂，用到了expandablerecyclerview
